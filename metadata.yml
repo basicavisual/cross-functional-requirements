@@ -1,0 +1,26 @@
+---
+name: Cross-Functional Requirements
+abstract: |
+  The cross-functional requirements define the shared behaviour and constraints that all Building Blocks must satisfy - security, deployment, observability, data handling and so on. A Building Block specification inherits all of these rules and then adds its own functional requirements, API contracts and domain-specific logic on top. It can tighten or elaborate inherited rules where allowed, but it cannot contradict or weaken them.
+url: https://specs.govstack.global/cross-functional-requirements/
+repository: https://github.com/GovStackWorkingGroup/cross-functional-requirements
+urn: govstack:spec:cfr
+owner_group: govstack:wg:architecture
+versions:
+  - version: 2.2.0
+    url_suffix: /cross-functional-requirements/2.2.0
+    latest: true
+    short_description: Defines the shared behaviour and constraints for all Building Blocks.
+    release_date: 2026-04-01
+  - version: 2.1.0
+    url_suffix: /cross-functional-requirements/2.1.0
+    short_description: Defines the shared behaviour and constraints for all Building Blocks.
+    release_date: 2026-03-13
+  - version: 2.0.0
+    url_suffix: /cross-functional-requirements/2.0.0
+    short_description: Defines the shared behaviour and constraints for all Building Blocks.
+    release_date: 2026-02-27
+  - version: 1.0
+    url_suffix: /cross-functional-requirements/1.0
+    short_description: Defines the shared behaviour and constraints for all Building Blocks.
+    release_date: 2023-11-15

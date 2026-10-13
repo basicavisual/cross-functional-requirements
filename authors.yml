@@ -1,0 +1,24 @@
+---
+# Should only include this version's authors 
+authors:
+  - name: Kristo Vaher
+    roles: [Author, Coordinating Author]
+    urn: govstack:person:kristo-vaher
+  - name: Nico Lueck
+    roles: [Author]
+    urn: govstack:person:nico-lueck
+  - name: Aleksander Reitsakas
+    roles: [Author]
+    urn: govstack:person:aleksander-reitsakas
+  - name: David Higgins
+    roles: [Author]
+    urn: govstack:person:david-higgins
+  - name: Ali González-García
+    roles: [Author, Editor]
+    urn: govstack:person:ali-gonzalez-garcia
+  - name: Mikael Linden
+    roles: [Author]
+    urn: govstack:person:mikael-linden
+  - name: Felixie Rafalimanana
+    roles: [Author]
+    urn: govstack:person:felixie-rafalimanana
